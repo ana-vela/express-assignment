@@ -1,0 +1,22 @@
+{
+  "name": "express-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ana-vela/express-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ana-vela/express-assignment/issues"
+  },
+  "homepage": "https://github.com/ana-vela/express-assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
